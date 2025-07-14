@@ -156,9 +156,6 @@ const Index = () => {
         <div className="absolute inset-0 bg-grid-white/[0.05] bg-[size:60px_60px]" />
         <div className="container mx-auto px-4 py-24 relative">
           <div className="max-w-4xl mx-auto text-center">
-            <Badge className="mb-6 bg-walmart-yellow text-walmart-blue hover:bg-walmart-yellow/90">
-              AI-Powered Solutions
-            </Badge>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
             SustainaX
               <span className="block text-walmart-yellow">Optimize. Reduce. Sustain</span>
@@ -189,7 +186,7 @@ const Index = () => {
       <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">AI Solutions Portfolio</h2>
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">AI-Driven Sustainability Engine </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Seven cutting-edge AI systems designed to optimize operations, reduce costs, and drive sustainable growth.
             </p>

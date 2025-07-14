@@ -13,11 +13,11 @@ export const WasteHero = () => {
           <Badge className="mb-6 bg-emerald-100 text-emerald-800 hover:bg-emerald-100/90">
             ♻️ Zero-Waste Innovation
           </Badge>
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
+          <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-fade-in">
             ZWIB System
             <span className="block text-emerald-300">Smart Waste Management</span>
           </h1>
-          <p className="text-xl md:text-2xl mb-8 text-emerald-100 animate-fade-in">
+          <p className="text-xl  mb-8 text-emerald-100 animate-fade-in">
             From in-store smart bins to household AI assistance and community compost pickup. 
             Complete waste management ecosystem with real-time analytics.
           </p>
