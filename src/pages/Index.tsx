@@ -160,8 +160,8 @@ const Index = () => {
               AI-Powered Solutions
             </Badge>
             <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in">
-              Solving Real-World
-              <span className="block text-walmart-yellow">Problems</span>
+            SustainaX
+              <span className="block text-walmart-yellow">Optimize. Reduce. Sustain</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100 animate-fade-in">
               Explore innovative AI solutions designed to reshape industries and drive measurable impact across retail, agriculture, and logistics.

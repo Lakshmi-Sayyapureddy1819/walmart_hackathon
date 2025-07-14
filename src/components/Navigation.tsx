@@ -44,7 +44,7 @@ export const Navigation = () => {
   className="h-8 w-8 rounded bg-walmart-blue object-cover"
 />
 
-            <span className="font-bold text-xl text-walmart-blue">AI Solutions</span>
+            <span className="font-bold text-xl text-walmart-blue">SustainaX</span>
           </Link>
 
           {/* Desktop Navigation */}
